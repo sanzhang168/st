@@ -1,3 +1,5 @@
+It's my first time to use suckless including st. I learned a hard lesson that all these source codes are for Linux. I have to make modification to make it work for FreeBSD.The plan is to make it work for FreeBSD before I'm able to change anything.
+
 # Luke's build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional
