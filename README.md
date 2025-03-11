@@ -36,6 +36,16 @@ features that make it literally the best terminal emulator ever:
 + font2
 + updated to latest version 0.8.5
 
+## For FreeBSD users
+
+I have to install extra packages to be able to install it on my FreeBSD 15.
+
+```
+pkg install pkgconf
+
+pkg install harfbuzz
+```
+
 ## Installation for newbs
 
 You should have xlib header files and libharfbuzz build files installed.
